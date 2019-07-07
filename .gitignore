@@ -1,3 +1,8 @@
+# My custome ignores
+/.idea/
+# Don't want to store the vgg network in the cloud; it is large
+vgg.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
